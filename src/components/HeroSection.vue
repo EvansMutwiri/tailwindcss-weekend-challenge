@@ -11,14 +11,14 @@
                 <div class="hero__text-buttons mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                     <div class="rounded-md">
                         <a href="#"
-                            class="w-full flex items-center justify-center px-8 py-2 border border-transparent text-base font-semibold sm:rounded-md text-white bg-green md:py-4 md:px-10 antialiased">
+                            class="transform transition duration-500 hover:bg-hover-green w-full flex items-center justify-center px-8 py-2 border border-transparent text-base font-semibold sm:rounded-md text-white bg-green md:py-4 md:px-10 antialiased">
                             Upload for Free
                         </a>
                     </div>
 
                     <div class="mt-3 sm:mt-0 sm:ml-3">
                         <a href="#"
-                            class="w-full flex items-center justify-center px-8 py-2 border border-transparent text-base font-semibold sm:rounded-md text-black bg-grey md:py-4 md:px-10 antialiased">
+                            class="transform transition duration-500 hover:bg-hover-grey w-full flex items-center justify-center px-8 py-2 border border-transparent text-base font-semibold sm:rounded-md text-black bg-grey md:py-4 md:px-10 antialiased">
                             Watch video
                         </a>
                     </div>
@@ -30,13 +30,3 @@
         </div>
     </div>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-
-</style>

@@ -4,7 +4,7 @@
             <div class="what-we-do-col">
                 <div class="">
                     <div class="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
-                        <div class="what-we-do-col__card -mt-10 bg-white px-10 text-center pb-10 space-y-4">
+                        <div class="transform transition duration-500 hover:scale-105 what-we-do-col__card -mt-10 bg-white px-10 text-center pb-10 space-y-4">
                             <img class="mx-auto" src="/src/assets/icon_1.png" alt="" />
                             <h2 class="font-extrabold text-3xl rounded-md text-black">
                                 Visualize it
@@ -16,7 +16,7 @@
                             </p>
                         </div>
 
-                        <div class="what-we-do-col__card -mt-10 bg-white px-10 text-center pb-10 space-y-4">
+                        <div class="transform transition duration-500 hover:scale-105 what-we-do-col__card -mt-10 bg-white px-10 text-center pb-10 space-y-4">
                             <img class="mx-auto" src="/src/assets/icon_2.png" alt="" />
                             <h2 class="font-extrabold text-3xl rounded-md text-black">
                                 Create it
@@ -28,7 +28,7 @@
                             </p>
                         </div>
 
-                        <div class="what-we-do-col__card -mt-10 bg-white px-10 text-center pb-10 space-y-4">
+                        <div class="transform transition duration-500 hover:scale-105 what-we-do-col__card -mt-10 bg-white px-10 text-center pb-10 space-y-4">
                             <img class="mx-auto" src="/src/assets/icon_3.png" alt="" />
                             <h2 class="font-extrabold text-3xl rounded-md text-black">
                                 Grow it
@@ -56,12 +56,3 @@
         </div>
     </section>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-</style>

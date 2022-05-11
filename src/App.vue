@@ -12,16 +12,20 @@ import WhatWeOffer from './components/WhatWeOffer.vue'
 </script>
 
 <template>
-<HeroSection/>
-<WhatWeDo/>
-<AboutUs/>
-<Milestones/>
-<VisaApplication/>
-<FrequentlyAskedQ/>
-<StrategySection/>
-<Hotline/>
-<TestimonialsSection/>
-<WhatWeOffer/>
+
+<div class="snap-y snap-mandatory overflow-scroll h-screen">
+    <HeroSection class="snap-start"/>
+    <WhatWeDo class="snap-start"/>
+    <AboutUs class="snap-start"/>
+    <Milestones class="snap-start"/>
+    <VisaApplication class="snap-start"/>
+    <FrequentlyAskedQ class="snap-start"/>
+    <StrategySection class="snap-start"/>
+    <Hotline class="snap-start"/>
+    <TestimonialsSection class="snap-start"/>
+    <WhatWeOffer class="snap-start"/>
+</div>
+
 
 
 

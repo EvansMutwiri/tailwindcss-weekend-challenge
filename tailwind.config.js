@@ -21,7 +21,9 @@ module.exports = {
       'light-grey': '#F2F2F2',
       'bubble-gum': '#ff77e9',
       'bermuda': '#78dcca',
-      'muted': '#8F8F8F'
+      'muted': '#8F8F8F',
+      'hover-green': '#46CF73',
+      'hover-grey': '#b7b7b7'
     },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],

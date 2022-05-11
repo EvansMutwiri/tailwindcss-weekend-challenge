@@ -65,7 +65,7 @@
 
                 <div class="rounded-md">
                     <a href="#"
-                        class="w-full sm:w-48 flex items-center justify-center px-8 py-2 border border-transparent text-base font-semibold text-black bg-green md:py-4 md:px-10 sm:ml-10 antialiased">
+                        class="transform transition duration-500 hover:bg-hover-green w-full sm:w-48 flex items-center justify-center px-8 py-2 border border-transparent text-base font-semibold text-black bg-green md:py-4 md:px-10 sm:ml-10 antialiased">
                         LEARN MORE
                     </a>
                 </div>
@@ -75,13 +75,3 @@
         
     </section>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-
-</style>
